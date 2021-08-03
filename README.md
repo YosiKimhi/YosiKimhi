@@ -1,6 +1,6 @@
 ### Hi there 👋
  
-# I am Software Engineer with knowledge and experience in Full Stack development. Proven experience in problem-solving and working
+I am Software Engineer with knowledge and experience in Full Stack development. Proven experience in problem-solving and working
 as part of a team. Pursuing a career in the field of web development and frontend. Creative with a desire to learn new things, adaptive,
 and open-minded.
 yosefik@
