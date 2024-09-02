@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Projects for the oncology department at the Ichilov Hospital (Ngsearch and Qrtx and more)<br>👯 I’m looking to collaborate on any Any interesting open project, I would be happy to contribute. Projects related to AI, the stock market or game development.<br>🤝 I’m looking for help with AI projects and agent training, using sicket learn to optimize and analysis Data<br>🌱 I’m currently learning -  sicket learn, Tensorflow Data Science, Data Analysis, Machine Learning (Artificial Intelligence), Docker & Kubernetes<br>💬 Ask me about anything!<br>⚡ Fun fact - Love to play guitar and draw using my iPad
+🔭 I’m currently working on Projects for the oncology department at the Ichilov Hospital (Ngsearch, Qrtx and more)<br>👯 I’m looking to collaborate on any Any interesting open project, I would be happy to contribute. Projects related to AI, the stock market or game development.<br>🤝 I’m looking for help with AI projects and agent training, using sicket learn to optimize and analysis Data<br>🌱 I’m currently learning -  sicket learn, Tensorflow Data Science, Data Analysis, Machine Learning (Artificial Intelligence), Docker & Kubernetes<br>💬 Ask me about anything!<br>⚡ Fun fact - Love to play guitar and draw using my iPad
 
 
 ## 🌐 Socials:
