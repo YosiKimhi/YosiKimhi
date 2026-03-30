@@ -1,5 +1,9 @@
 # 💫 About Me:
-🔭 I’m currently working on Projects for the oncology department at the Ichilov Hospital (Ngsearch, Qrtx and more)<br>👯 I’m looking to collaborate on any Any interesting open code project. Projects related to AI, the stock market or game development.<br>🤝 I’m looking for help with AI projects and agent training, using sicket learn to optimize and analysis Data<br>🌱 I’m currently learning -  sicket learn, Tensorflow Data Science, Data Analysis, Machine Learning (Artificial Intelligence), Docker & Kubernetes<br>💬 Ask me about anything!<br>⚡ Fun fact - Love to play guitar and draw using my iPad
+🔭 Full Stack Developer
+👯 Open to collaborating on AI, fintech, or game dev projects
+🌱 Currently leveling up in scikit-learn, TensorFlow, Docker & Kubernetes
+🛠️ Stack: Node.js · React · Python · TypeScript · Java · Spring
+⚡ Fun fact: I play guitar, draw on my iPad, and occasionally destroy tanks in World of Tanks
 
 
 ## 🌐 Socials:
